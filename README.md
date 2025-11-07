@@ -39,5 +39,5 @@ Open the `.pbix` file inside the PowerBI folder for analytics visualization.
 🕒 Ongoing: MongoDB integration, Power BI data connection, authentication  
 
 ## 🧑‍💻 Author
-**Pruthvirajsinh Rathod**  
+**Gargi Rami**  
 Smart Budget Advisor | © 2025
